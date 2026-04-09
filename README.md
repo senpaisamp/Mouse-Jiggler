@@ -7,7 +7,9 @@ A lightweight Windows utility that simulates tiny mouse movements to prevent you
 
 ## Preview
 
-![Mouse Jiggler Pro](Jiggler.png)
+<div align="center">
+  <img src="Jiggler.png" alt="Mouse Jiggler Pro">
+</div>
 
 ---
 
