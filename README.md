@@ -5,6 +5,12 @@ A lightweight Windows utility that simulates tiny mouse movements to prevent you
 
 ---
 
+## Preview
+
+![Mouse Jiggler Pro](Jiggler.png)
+
+---
+
 ## Features
 
 - **Smart jiggling** – Moves the mouse by 1-2 pixels every 2 seconds when active (imperceptible to you, but enough to keep the system awake)
